@@ -2,6 +2,7 @@ def html_template(body):
     return f"""<html>
 <head>
 <title>Documento</title>
+<link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
 <header>
