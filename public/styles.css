@@ -1,5 +1,6 @@
-html,
-body {
-    margin: 0px;
-    padding: 0px;
+body>main {
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    right: 0px;
 }
