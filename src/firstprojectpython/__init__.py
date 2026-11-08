@@ -1,6 +1,6 @@
 from http.server import HTTPServer
-from src.firstprojectpython import MyHandler
 
+from .MyHandler import MyHandler
 
 def main() -> None:
     print("Hello from firstprojectpython!")
